@@ -3,7 +3,7 @@
 <h2>👨‍💻About me </h2>
 <p>I'm from Thailand. I graduated from the faculty of Engineering, majoring in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang. I'm passionate about Web Development like Full-Stack, Front-End or Back-End. </p>
 
-[![Website Champjiwrd](https://img.shields.io/badge/-Website-white?style=for-the-badge&logo=Google-chrome&logoColor=black&link=https://champjiwrd.github.io/)](https://champjiwrd.github.io/)
+[![Portfolio Champjiwrd](https://img.shields.io/badge/-Porfolio-white?style=for-the-badge&logo=Google-chrome&logoColor=black&link=https://champjiwrd.github.io/)](https://champjiwrd.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/warodom-baiudom-484180205/)](https://www.linkedin.com/in/warodom-baiudom-484180205)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/champjiwrd/)](https://www.facebook.com/champjiwrd/)
 
